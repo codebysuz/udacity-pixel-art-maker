@@ -12,7 +12,7 @@ Designs.js is the real essense of this project and was modified.  The function m
 Simply click and drag 'index.html' to a google chrome browser tab and play.  
 
 ### Project Motivation
-The project motivation for this Pixel Art Maker is to practice using event listeners in web pages and to design interactive grids which incorporate many user inputs.
+The project motivation for this Pixel Art Maker is to practice Java Script programming and using the DOM by adding event listeners in web pages and to design interactive grids which incorporate many user inputs.
 
 ### Results
 Now you can define a grid of a size of your choosing and color in the grids.
